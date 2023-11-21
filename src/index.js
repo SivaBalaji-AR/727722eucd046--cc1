@@ -9,7 +9,7 @@ import Q10 from './q10'
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Q1 />  
+    <Q10  name='SKCET' age='25' />  
   </React.StrictMode>
 );
 
